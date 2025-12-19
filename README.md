@@ -1,5 +1,5 @@
 Using Figma Designs as References
-Using Figma designs as references made my coding process more structured and intentional. Instead of guessing sizes, colors, and spacing, I could visually match my HTML and CSS to a real design specification. This helped me think more like a front-end developer working with a designer, improving my attention to detail and reinforcing the importance of translating visual layouts into clean, semantic code.
+I Using Figma designs as references made my coding process more structured and intentional. Instead of guessing sizes, colors, and spacing, 
 
 Challenges Aligning Code with Design Specifications
 The main challenges I encountered were matching exact spacing, font sizes, and alignment, especially for padding, margins, and responsive behavior. Small differences in CSS values could make the layout look slightly off compared to the Figma design. I also had to carefully use Flexbox and box model properties to ensure elements were centered and consistent across screen sizes, which required testing and adjustments.
